@@ -12,6 +12,9 @@ paginate: true
 # Grassroots
 
 **Gianluca "Bigshot" De Rossi**
+
+Vorrei coltivare i miei "pomidori" idroponici ma non so da dove partire, come posso fare?
+HACKER, NON TEMERE!
 ![bg left:40% Sistema idroponico generato AI](images/Slide_01.webp)
 
 ---
@@ -19,9 +22,9 @@ paginate: true
 # Disclaimer
 
 - AI? Sì grazie
+- Sei agronomo/botanico/antani? No!
 - 20 minuti, 35 slides: Run! Run! Run!
-- Non sono agronomo/botanico/antani
-![bg :60% Sistema idroponico generato AI](images/Slide_02.jpg)
+![bg Robe generiche idroponica generato AI](images/Slide_02.jpg)
 
 ---
 
@@ -30,14 +33,14 @@ paginate: true
 * Coltivazione senza suolo
 * Nutrienti disciolti in acqua
 * Controllo preciso dei fattori ambientali
-![bg right:47% Blocchetti lana di roccia](images/Slide_03.jpg)
+![bg right:47% Serra pomodori idroponici](images/Slide_03.jpg)
 
 ---
 # Cosa vogliono le piante
 ### Acqua
 
 Essenziale per la vita, trasporta nutrienti, regola la temperatura.
-![bg left:37% Blocchetti lana di roccia](images/Slide_04.jpg)
+![bg left:37% Acqua nella foresta generato AI](images/Slide_04.jpg)
 
 ---
 
@@ -48,7 +51,7 @@ Nutrienti primari NPK:
 - Azoto (crescita fogliare)
 - Fosforo (radici e fiori)
 - Potassio (resistenza e frutti)
-![bg left:37% Blocchetti lana di roccia](images/Slide_05.jpg)
+![bg left:37% Sacco fertilizzante](images/Slide_05.jpg)
 
 ---
 
@@ -56,7 +59,7 @@ Nutrienti primari NPK:
 ### Micronutrienti
 
 Ferro, manganese, zinco, boro, rame, molibdeno, etc...
-![bg left:55% Blocchetti lana di roccia](images/Slide_06.jpg)
+![bg left:40% Effitti mancanza molibdeno](images/Slide_06.webp)
 
 ---
 
@@ -64,8 +67,8 @@ Ferro, manganese, zinco, boro, rame, molibdeno, etc...
 
 * Germinazione
 * Crescita vegetativa
-* Fioritura/Fruttificazione
-![bg left:55% Blocchetti lana di roccia](images/Slide_07.jpg)
+* Fioritura / Fruttificazione
+![bg left:55% Fioritura generata AI](images/Slide_07.jpg)
 
 ---
 
@@ -75,7 +78,7 @@ Ferro, manganese, zinco, boro, rame, molibdeno, etc...
 * Radici immerse in soluzione nutritiva
 * Substrati inerti (lana di roccia, argilla espansa)
 * Sistemi: NFT, Drip, Wick, DWC
-![bg right:50% Blocchetti lana di roccia](images/Slide_08.webp)
+![bg right:50% Idroponica palesemente AI](images/Slide_08.webp)
 
 ---
 
@@ -85,7 +88,7 @@ Ferro, manganese, zinco, boro, rame, molibdeno, etc...
 * Radici sospese nell'aria
 * Nebulizzazione di soluzione nutritiva
 * Maggiore ossigenazione radicale
-![bg right:50% Blocchetti lana di roccia](images/Slide_09.jpg)
+![bg right:50% Radici aeroponiche](images/Slide_09.jpg)
 
 ---
 
@@ -95,52 +98,51 @@ Ferro, manganese, zinco, boro, rame, molibdeno, etc...
 * Combinazione di idroponica e acquacoltura
 * Pesci forniscono nutrienti alle piante
 * Piante filtrano l'acqua per i pesci
-![bg right:50% Blocchetti lana di roccia](images/Slide_10.jpg)
+![bg right:50% Illustrazione acquaponica generata AI](images/Slide_10.jpg)
 
 ---
 
-# Sistemi comuni
+# Sistemi più comuni
 ### Nutrient Film Tecnique
 
 * Flusso continuo di soluzione nutritiva
 * Radici immerse in un sottile film d'acqua
 * Sistema più comune e documentato
-![bg right:53% Blocchetti lana di roccia](images/Slide_11.png)
+![bg right:49% Schema sistema NFT](images/Slide_11.png)
 ---
 
-# Sistemi comuni
+# Sistemi più comuni
 ### Drip
 
-* Irrigazione a goccia periodica
+* Irrigazione a gocciolamento
 * Substrato trattiene l'umidità
-* Facile esecuzione
-![bg right:35% Blocchetti lana di roccia](images/Slide_12.jpg)
+* Facile realizzazione
+![bg right:35% Foto sistema drip](images/Slide_12.jpg)
 
 ---
 
-# Sistemi comuni
+# Sistemi più comuni
 ### Wick
 
 * Soluzione nutritiva risale per capillarità
-* Semplice ed economico
-* Adatto ad orti idroponici grandi
+* Scalabile / Adatto ad orti idroponici grandi
 
-![bg right:45% Blocchetti lana di roccia](images/Slide_13.png)
+![bg right:45% Schema sistema wick](images/Slide_13.png)
 
 ---
 
-# Sistemi comuni
+# Sistemi più comuni
 ### DWC/Kratky
 
 * Radici immerse in soluzione nutritiva areata
-* Crescita rapida e vigorosa
+* Costruzione semplicissima e super economica
 * Richiede un buon controllo dell'ossigenazione e della temperatura
-![bg right:35% Blocchetti lana di roccia](images/Slide_14.jpg)
+![bg right:35% Foto sistema Kratky](images/Slide_14.jpg)
 
 
 ---
 
-![bg  Blocchetti lana di roccia](images/Slide_14b.png)
+![bg  Schema sistema DWC](images/Slide_14b.png)
 
 ---
 
@@ -226,8 +228,7 @@ Bzzzzz
 # Componenti
 ### Sensoristica
 
-* Misura umidità, temperatura, CO2, luce
-* Controlla i parametri ambientali
+Raccogliere costantemente dati sulla soluzione nutritiva o sull'atmosfera può aiutare a capire e risolvere eventuali segnali di sofferenza delle piante.
 ![bg left:25% EC Meter](images/Slide_23.png)
 
 ---
@@ -251,13 +252,14 @@ Siamo all'ESC: mettete assieme tutto quello che abbiamo visto prima, no?
 ---
 
 # Pros & Cons
-### "yeah!"
+### "Yeah!"
 
 * Maggiore resa e qualità
-* Risparmio idrico / Minore impatto ambientale
+* Risparmio idrico
 * Coltivazione tutto l'anno
 * Crescita molto veloce
 * Riduzione di parassiti e malattie
+![bg left:40% Abbondanza idroponica generata AI](images/Slide_27.jpg)
 
 ---
 
@@ -266,13 +268,15 @@ Siamo all'ESC: mettete assieme tutto quello che abbiamo visto prima, no?
 
 * Investimento iniziale più elevato rispetto alla coltivazione tradizionale
 * Componenti e materiali specifici
+![bg left:40% Disperazione costo idroponica generata AI](images/Slide_28.jpg)
 
 ---
 
 # Pros & Cons
 ### Consumi energetici
 
-Pompe, luci, chiller richiedono energia elettrica.
+Pompe, luci, chiller richiedono (molta) energia elettrica.
+![bg left:40% Idroponica energivora generata AI](images/Slide_29.jpg)
 
 ---
 
@@ -281,21 +285,25 @@ Pompe, luci, chiller richiedono energia elettrica.
 
 * Necessità di mantenere temperature ottimali per mantenere le piante in salute
 * L'ambiente esterno tenterà in tutti i modi di rovinarvi i piani
+![bg left:40% Temperature alte generata AI](images/Slide_30.jpg)
 
 ---
 
 # Pros & Cons
 ### Mancanza di ossigeno alle radici
 
-* Rischio in alcuni sistemi, soprattutto DWC
+* Rischio in alcuni sistemi, soprattutto DWC/Kratky
 * Pompette da acquario FTW
+* Splash!
+![bg left:40% Root rot](images/Slide_31.jpg)
 
 ---
 
 # Pros & Cons
 ### Problemi con la soluzione nutritiva
 
-Accumuli e squilibri dopo lungo utilizzo di una soluzione nutritiva portano a doverla sostituire totalmente previa sanificazione dell'impianto.
+L'utilizzo prolungato nel tempo di singolo batch di soluzione nutritiva porta ad accumuli e squilibri nei nutrienti. Spreco di nutrienti per prepararne di nuova previa sanificazione dell'impianto.
+![bg left:40% Canna products](images/Slide_32.webp)
 
 ---
 
@@ -303,6 +311,7 @@ Accumuli e squilibri dopo lungo utilizzo di una soluzione nutritiva portano a do
 ### Guasti tecnici
 
 TUTTO QUELLO CHE NON C'È NON SI PUÒ ROMPERE
+![bg left:40% Pianta in fiamme generata AI](images/Slide_33.jpg)
 
 ---
 
@@ -313,6 +322,7 @@ TUTTO QUELLO CHE NON C'È NON SI PUÒ ROMPERE
 * Alghe e batteri possono proliferare
 * Igiene e pulizia fondamentali
 * Materiali potenzialmente pericolosi
+![bg left:40% Serbatoio contaminato generata AI](images/Slide_34.jpg)
 
 ---
 
